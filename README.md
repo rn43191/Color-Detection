@@ -6,7 +6,9 @@ We calculated the distance from each color hex value and find the shortest one a
 
 Requisites : python openCV pandas <br>
 ```pip install opencv-python pandas```
+
 ---
+
 ###### Download or Clone the repository and run the python file
 > Make sure to give an image path using ‘-i’ argument. If the image is in another directory, then you need to give full path of the image.<br>
 
