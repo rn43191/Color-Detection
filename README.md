@@ -1,6 +1,6 @@
 # Color Detection
 
-In this color detection Python project, we can get the name of the color by double-clicking on them. <br>
+In this color detection Python project, we can get the name of the color by double-clicking on it. <br>
 We have a CSV that contains the color name and its values. <br>
 We calculated the distance from each color hex value and find the shortest one and display that particular color.
 
@@ -14,4 +14,5 @@ Requisites : python openCV pandas <br>
 
 ```python recognize.py -i colorpic.jpg```
 
+Press ESC key to exit the image window.
  
