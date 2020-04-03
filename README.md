@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Color Detection
 
 In this color detection Python project, we can get the name of the color by double-clicking on them. <br>
@@ -34,5 +33,3 @@ Requisites : python openCV pandas <br>
 ```python recognize.py -i colorpic.jpg```
 
 Press ESC key to exit the image window.
- 
->>>>>>> b7f634b8eb29e8db22beadb7dfdad33ea3a61554
